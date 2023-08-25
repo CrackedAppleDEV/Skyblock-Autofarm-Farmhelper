@@ -4,13 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 ![Downloads][downloads-shield]
 
-<br />
-<div align="center">
-  <a href="https://github.com/JellyLabScripts/FarmHelper">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">FarmHelper</h3>
 
 ## About The Project
 
